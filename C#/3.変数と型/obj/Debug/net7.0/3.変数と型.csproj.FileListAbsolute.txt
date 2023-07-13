@@ -1,0 +1,15 @@
+/Users/takatoshihirano/git/pj_C/C#/3.変数と型/bin/Debug/net7.0/3.変数と型
+/Users/takatoshihirano/git/pj_C/C#/3.変数と型/bin/Debug/net7.0/3.変数と型.deps.json
+/Users/takatoshihirano/git/pj_C/C#/3.変数と型/bin/Debug/net7.0/3.変数と型.runtimeconfig.json
+/Users/takatoshihirano/git/pj_C/C#/3.変数と型/bin/Debug/net7.0/3.変数と型.dll
+/Users/takatoshihirano/git/pj_C/C#/3.変数と型/bin/Debug/net7.0/3.変数と型.pdb
+/Users/takatoshihirano/git/pj_C/C#/3.変数と型/obj/Debug/net7.0/3.変数と型.csproj.AssemblyReference.cache
+/Users/takatoshihirano/git/pj_C/C#/3.変数と型/obj/Debug/net7.0/3.変数と型.GeneratedMSBuildEditorConfig.editorconfig
+/Users/takatoshihirano/git/pj_C/C#/3.変数と型/obj/Debug/net7.0/3.変数と型.AssemblyInfoInputs.cache
+/Users/takatoshihirano/git/pj_C/C#/3.変数と型/obj/Debug/net7.0/3.変数と型.AssemblyInfo.cs
+/Users/takatoshihirano/git/pj_C/C#/3.変数と型/obj/Debug/net7.0/3.変数と型.csproj.CoreCompileInputs.cache
+/Users/takatoshihirano/git/pj_C/C#/3.変数と型/obj/Debug/net7.0/3.変数と型.dll
+/Users/takatoshihirano/git/pj_C/C#/3.変数と型/obj/Debug/net7.0/refint/3.変数と型.dll
+/Users/takatoshihirano/git/pj_C/C#/3.変数と型/obj/Debug/net7.0/3.変数と型.pdb
+/Users/takatoshihirano/git/pj_C/C#/3.変数と型/obj/Debug/net7.0/3.変数と型.genruntimeconfig.cache
+/Users/takatoshihirano/git/pj_C/C#/3.変数と型/obj/Debug/net7.0/ref/3.変数と型.dll
